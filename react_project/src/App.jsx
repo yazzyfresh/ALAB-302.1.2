@@ -13,13 +13,13 @@ return (
       <Article
         date="11/12/20"
         title="On the Street in Brooklyn"
-        image="/blog-image-1.jpg"
+        image="public/blog-image-1.jpg"
       />
 
       <Article
         date="11/12/20"
         title="Vintage in Vogue"
-        image="/blog-image-2.jpg"
+        image="public/blog-image-2.jpg"
       />
     </main>
 
