@@ -1,6 +1,6 @@
 # Netlify Live Link
 
-your-netlify-link
+https://badreactfashionblog.netlify.app/
 
 # GitHub Pages Live Link
 https://yazzyfresh.github.io/ALAB-302.1.2/
