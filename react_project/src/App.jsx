@@ -1,34 +1,30 @@
-import Header from './components/Header';
-import Footer from './components/Footer';
-import Footer from './components/Footer';
-import './App.css';
+import Header from "./components/Header";
+import Article from "./components/Article";
+import Footer from "./components/Footer";
+import "./App.css";
 
 function App() {
+  return (
+    <>
+      <Header />
 
-return (
-  <>
-    <Header />
+      <main>
+        <Article
+          date="11/12/20"
+          title="On the Street in Brooklyn"
+          image="/blog-image-1.jpg"
+        />
 
-    <main>
-      <Article
-        date="11/12/20"
-        title="On the Street in Brooklyn"
-        image="public/blog-image-1.jpg"
-      />
+        <Article
+          date="11/11/20"
+          title="Vintage in Vogue"
+          image="/blog-image-2.jpg"
+        />
+      </main>
 
-      <Article
-        date="11/12/20"
-        title="Vintage in Vogue"
-        image="public/blog-image-2.jpg"
-      />
-    </main>
-
-    <Footer />
-  </>
-);
-
-
-
+      <Footer />
+    </>
+  );
 }
 
 export default App;

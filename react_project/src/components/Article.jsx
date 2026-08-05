@@ -10,6 +10,18 @@ function Article({ date, title, image }) {
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id
         ligula porta felis euismod semper. Curabitur blandit tempus porttitor.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id
+        ligula porta felis euismod semper. Curabitur blandit tempus porttitor.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id
+        ligula porta felis euismod semper. Curabitur blandit tempus porttitor.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id
+        ligula porta felis euismod semper. Curabitur blandit tempus porttitor.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id
+        ligula porta felis euismod semper. Curabitur blandit tempus porttitor.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id
+        ligula porta felis euismod semper. Curabitur blandit tempus porttitor.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id
+        ligula porta felis euismod semper. Curabitur blandit tempus porttitor.
       </p>
 
       <a href="#" className="continue">
